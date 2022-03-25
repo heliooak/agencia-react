@@ -1,0 +1,80 @@
+[
+  {
+    "title": "África Central",
+    "description": "Incrível paisagens e um mundo selvagem espetacular. Savanas repletas de animais selvagens transmitindo toda a energia deste contato com a natureza!",
+    "photo": "/assets/cidades/africa.jpg",
+    "size": 6,
+    "serving": 2,
+    "price": 4300.0,
+    "id": 1,
+    "category": {
+      "id": 1,
+      "label": "Africa"
+    }
+  },
+  {
+    "title": "Kilimanjaro",
+    "description": "Um dos lugares mais curiosos do planeta e presente neste continente sencacionalque é a África. Lá encontrase o famoso Monte Kilimanjaro!",
+    "photo": "/assets/cidades/kilimanjaro.png",
+    "size": 6,
+    "serving": 2,
+    "price": 4150.0,
+    "id": 2,
+    "category": {
+      "id": 1,
+      "label": "África"
+    }
+  },
+  {
+    "title": "Cairo",
+    "description": "Cidade carregada de grandes histórias nesta capital iconica no mundo.",
+    "photo": "/assets/cidades/cairo.jpg",
+    "size": 5,
+    "serving": 2,
+    "price": 58.0,
+    "id": 3,
+    "category": {
+      "id": 1,
+      "label": "Egito"
+    }
+  },
+  {
+    "title": "Nova Iorque",
+    "description": "A capital do mundo ocidental. A cidade que não dorme e uma fonte cultural, econômica e do turismo planetária. ",
+    "photo": "/assets/cidades/newyork.jpg",
+    "size": 6,
+    "serving": 2,
+    "price": 6000.0,
+    "id": 4,
+    "category": {
+      "id": 2,
+      "label": "USA"
+    }
+  },
+  {
+    "title": "Piramedes do Egito",
+    "description": "Uma das civilizações mais antigas conhecidas no mundo. Esteja pronto para uma cidade mística.",
+    "photo": "/assets/cidades/egito.jg",
+    "size": 5,
+    "serving": 2,
+    "price": 7400.0,
+    "id": 5,
+    "category": {
+      "id": 2,
+      "label": "Egito"
+    }
+  },
+  {
+    "title": "Toronto",
+    "description": "A capital de tecnologia, e do turismo! prepara-se para uma das cidades de maior nível de felicidade do planeta.",
+    "photo": "/assets/cidades/toronto.jpg",
+    "size": 7,
+    "serving": 2,
+    "price": 3600.0,
+    "id": 6,
+    "category": {
+      "id": 3,
+      "label": "Canada"
+    }
+  }
+]
